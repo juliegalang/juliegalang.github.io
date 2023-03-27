@@ -10,7 +10,7 @@
 }
 
 body {
-	background-color: #333a56;
+	background-color: #663399;
 	margin: 0;
 	padding-top: 100px;
 }
@@ -46,7 +46,7 @@ body {
 
 /* Sets the header background and height */
 header {
-	background-color: #333a56;
+	background-color: #663399;
 	height: 100px;
 }
 
@@ -87,7 +87,7 @@ header {
 @media screen and (min-width: 768px) {
 .anchor-box {
 	background-color: transparent;
-	background-color: #333a56; 
+	background-color: #663399; 
 	color: #fff; 
 	padding-top: 17px;
 	padding-bottom: 10px;
@@ -105,7 +105,7 @@ header {
 
 .anchor-box {
 	background-color: transparent;
-	background-color: #333a56; 
+	background-color: #663399; 
 	color: #fff; 
 	margin-right: -21px;
 	margin-left: -21px;
@@ -205,7 +205,7 @@ header, .container-scrolled {
 nav { 
 	padding: .5em 0 .5em 0;
 	background-color: #e8e8e8;
-	border-bottom: .2em solid #333a56;
+	border-bottom: .2em solid #663399;
 }
 
 /* Since we'll have the "ul li" "float:left"
@@ -512,7 +512,7 @@ footer {
 	left: 50%;
 	transform: translateX(-50%);
 	display: inline;
-	background-color: #333a56;
+	background-color: #663399;
 	font: normal 80% 'Tajawal', sans-serif;
 	margin: .3em auto .3em auto;
 	max-width: 80%;
@@ -584,7 +584,7 @@ ul#btmtext li h6 a {
 	left: 50%;
 	transform: translateX(-50%);
 	display: inline;
-	background-color: #333a56;
+	background-color: #663399;
 	font: normal 75% 'Tajawal', sans-serif;
 	margin: .3em auto .3em auto;
 	max-width: 90%;
@@ -640,7 +640,7 @@ ul.pages li a {
 	background: transparent;
 	border-style: solid;
 	border-width: .2em;
-	border-color: #333a56; 
+	border-color: #663399; 
 	height: 100%;
 	-webkit-transition: all .25s ease;
 	-moz-transition: all .25s ease;
@@ -907,7 +907,7 @@ ul.pages-music li a {
 	height: 380px;
 	z-index: 100;
 	margin-bottom: -46px;
-	border-bottom: .2em solid #333a56;
+	border-bottom: .2em solid #663399;
 }
 
 .music-hero {
